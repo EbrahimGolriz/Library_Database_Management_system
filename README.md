@@ -9,6 +9,8 @@
 
 This project is a desktop application built with Python and PyQt5 that interacts with an MSSQL database to manage a library system.
 
+Detailed report availabe in Report.pdf
+
 
 ## Key Features
 
